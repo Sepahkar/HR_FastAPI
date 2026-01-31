@@ -1,0 +1,74 @@
+Get Request:
+
+axios.get('https://jsonplaceholder.typicode.com/posts')
+  .then(response => {
+    console.log(response.data); // دادههایی که از سرور برگشت داده شدن
+  })
+  .catch(error => {
+    console.error('Error fetching data:', error); // مدیریت خطا
+  });
+  
+  
+  
+  
+  Post Request:
+  axios.post('https://jsonplaceholder.typicode.com/posts', {
+    title: 'foo',
+    body: 'bar',
+    userId: 1
+  })
+  .then(response => {
+    console.log(response.data); // دادههایی که از سرور برگشت داده شدن
+  })
+  .catch(error => {
+    console.error('Error posting data:', error); // مدیریت خطا
+  });
+  
+  
+  
+  Adding header in request:
+  axios.get('https://jsonplaceholder.typicode.com/posts', {
+  headers: {
+    'Authorization': 'Bearer YOUR_TOKEN_HERE'
+  }
+})
+.then(response => {
+  console.log(response.data);
+})
+.catch(error => {
+  console.error('Error fetching data:', error);
+});
+  
+  
+  
+   Async/Await request:
+   async function fetchData() {
+  try {
+    const response = await axios.get('https://jsonplaceholder.typicode.com/posts');
+    console.log(response.data);
+  } catch (error) {
+    console.error('Error fetching data:', error);
+  }
+}
+
+fetchData();
+
+
+
+Error managments:
+axios.get('https://jsonplaceholder.typicode.com/posts')
+  .then(response => {
+    console.log(response.data);
+  })
+  .catch(error => {
+    if (error.response) {
+      // خطاهایی که سرور برمیگردونه
+      console.error('Error response:', error.response.data);
+    } else if (error.request) {
+      // خطاهایی که در ارسال درخواست اتفاق میافته
+      console.error('Error request:', error.request);
+    } else {
+      // سایر خطاها
+      console.error('Error message:', error.message);
+    }
+  });

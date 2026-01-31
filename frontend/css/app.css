@@ -1,0 +1,76 @@
+/* ================================
+   Font Faces - IRANSansWeb
+================================ */
+
+@font-face {
+        font-family: 'IRANSans';
+        src: url('../assets/fonts/woff2/IRANSansWeb.woff2') format('woff2');
+        font-weight: normal;
+    }
+    
+    @font-face {
+        font-family: 'IRANSans';
+        src: url('../assets/fonts/woff2/IRANSansWeb_Bold.woff2') format('woff2');
+        font-weight: bold;
+    }
+    
+    @font-face {
+        font-family: 'IRANSans';
+        src: url('../assets/fonts/woff2/IRANSansWeb_Light.woff2') format('woff2');
+        font-weight: 300;
+    }
+    
+    @font-face {
+        font-family: 'IRANSans';
+        src: url('../assets/fonts/woff2/IRANSansWeb_Medium.woff2') format('woff2');
+        font-weight: 500;
+    }
+    
+    @font-face {
+        font-family: 'IRANSans';
+        src: url('../assets/fonts/woff2/IRANSansWeb_UltraLight.woff2') format('woff2');
+        font-weight: 200;
+    }
+    
+    /* ================================
+       Global Styles
+    ================================ */
+    
+    body {
+        font-family: 'IRANSans', Tahoma, Arial, sans-serif;
+        background-color: #f5f6fa;
+        font-size: 14px;
+    }
+    
+    .table {
+        margin-bottom: 0;
+    }
+    
+    th, td {
+        vertical-align: middle !important;
+        text-align: center;
+    }
+    
+    /* ================================
+       Header
+    ================================ */
+    
+    .header-box {
+        background-color: #ffffff;
+        padding: 12px 16px;
+        border-radius: 6px;
+        box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+    }
+    
+    .current-user {
+        background-color: #eef2ff;
+        padding: 6px 12px;
+        border-radius: 20px;
+        font-weight: 500;
+    }
+    
+    .current-user i {
+        margin-left: 6px;
+        color: #0d6efd;
+    }
+    

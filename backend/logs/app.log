@@ -1,0 +1,1973 @@
+2026-01-25 20:32:42 | INFO | startup | HR Logging system initialized
+2026-01-25 20:32:42 | INFO | startup | Environment: DEV
+2026-01-25 20:32:42 | INFO | startup | Log level: INFO
+2026-01-25 20:32:42 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:17:02 | INFO | startup | HR Logging system initialized
+2026-01-25 23:17:02 | INFO | startup | Environment: DEV
+2026-01-25 23:17:02 | INFO | startup | Log level: INFO
+2026-01-25 23:17:02 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:21:41 | INFO | startup | HR Logging system initialized
+2026-01-25 23:21:41 | INFO | startup | Environment: DEV
+2026-01-25 23:21:41 | INFO | startup | Log level: INFO
+2026-01-25 23:21:41 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:26:46 | INFO | startup | HR Logging system initialized
+2026-01-25 23:26:46 | INFO | startup | Environment: DEV
+2026-01-25 23:26:46 | INFO | startup | Log level: INFO
+2026-01-25 23:26:46 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:26:46 | INFO | app.main | ===================================
+2026-01-25 23:26:46 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-25 23:26:46 | INFO | app.main | ===================================
+2026-01-25 23:26:46 | INFO | app.main | Environment : DEV
+2026-01-25 23:26:46 | INFO | app.main | Debug       : True
+2026-01-25 23:27:04 | ERROR | app.main | Database connection FAILED
+2026-01-25 23:28:31 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-25 23:28:32 | INFO | startup | HR Logging system initialized
+2026-01-25 23:28:32 | INFO | startup | Environment: DEV
+2026-01-25 23:28:32 | INFO | startup | Log level: INFO
+2026-01-25 23:28:32 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:28:33 | INFO | app.main | ===================================
+2026-01-25 23:28:33 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-25 23:28:33 | INFO | app.main | ===================================
+2026-01-25 23:28:33 | INFO | app.main | Environment : DEV
+2026-01-25 23:28:33 | INFO | app.main | Debug       : True
+2026-01-25 23:28:50 | ERROR | app.main | Database connection FAILED
+2026-01-25 23:29:03 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-25 23:29:09 | INFO | startup | HR Logging system initialized
+2026-01-25 23:29:09 | INFO | startup | Environment: DEV
+2026-01-25 23:29:09 | INFO | startup | Log level: INFO
+2026-01-25 23:29:09 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:29:10 | INFO | app.main | ===================================
+2026-01-25 23:29:10 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-25 23:29:10 | INFO | app.main | ===================================
+2026-01-25 23:29:10 | INFO | app.main | Environment : DEV
+2026-01-25 23:29:10 | INFO | app.main | Debug       : True
+2026-01-25 23:29:27 | ERROR | app.main | Database connection FAILED
+2026-01-25 23:32:39 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-25 23:32:39 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-25 23:37:42 | INFO | app.modules.hr.router | User [m.sepahkar] requested teams (service=True, eval=True)
+2026-01-25 23:37:42 | INFO | app.modules.hr.service | Fetching active service teams
+2026-01-25 23:38:31 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-25 23:38:31 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-25 23:41:49 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-25 23:41:51 | INFO | startup | HR Logging system initialized
+2026-01-25 23:41:51 | INFO | startup | Environment: DEV
+2026-01-25 23:41:51 | INFO | startup | Log level: INFO
+2026-01-25 23:41:51 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:41:52 | INFO | app.main | ===================================
+2026-01-25 23:41:52 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-25 23:41:52 | INFO | app.main | ===================================
+2026-01-25 23:41:52 | INFO | app.main | Environment : DEV
+2026-01-25 23:41:52 | INFO | app.main | Debug       : True
+2026-01-25 23:42:09 | ERROR | app.main | Database connection FAILED
+2026-01-25 23:42:09 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-25 23:42:09 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-25 23:45:21 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-25 23:45:26 | INFO | startup | HR Logging system initialized
+2026-01-25 23:45:26 | INFO | startup | Environment: DEV
+2026-01-25 23:45:26 | INFO | startup | Log level: INFO
+2026-01-25 23:45:26 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:45:26 | INFO | app.main | ===================================
+2026-01-25 23:45:26 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-25 23:45:26 | INFO | app.main | ===================================
+2026-01-25 23:45:26 | INFO | app.main | Environment : DEV
+2026-01-25 23:45:26 | INFO | app.main | Debug       : True
+2026-01-25 23:45:42 | ERROR | app.main | Database connection FAILED
+2026-01-25 23:46:01 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-25 23:46:01 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-25 23:51:04 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-25 23:51:05 | INFO | startup | HR Logging system initialized
+2026-01-25 23:51:05 | INFO | startup | Environment: DEV
+2026-01-25 23:51:05 | INFO | startup | Log level: INFO
+2026-01-25 23:51:05 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:51:06 | INFO | app.main | ===================================
+2026-01-25 23:51:06 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-25 23:51:06 | INFO | app.main | ===================================
+2026-01-25 23:51:06 | INFO | app.main | Environment : DEV
+2026-01-25 23:51:06 | INFO | app.main | Debug       : True
+2026-01-25 23:51:06 | ERROR | app.main | Database connection FAILED
+2026-01-25 23:51:16 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-25 23:51:16 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-25 23:54:00 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-25 23:54:01 | INFO | startup | HR Logging system initialized
+2026-01-25 23:54:01 | INFO | startup | Environment: DEV
+2026-01-25 23:54:01 | INFO | startup | Log level: INFO
+2026-01-25 23:54:01 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:54:02 | INFO | app.main | ===================================
+2026-01-25 23:54:02 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-25 23:54:02 | INFO | app.main | ===================================
+2026-01-25 23:54:02 | INFO | app.main | Environment : DEV
+2026-01-25 23:54:02 | INFO | app.main | Debug       : True
+2026-01-25 23:54:02 | ERROR | app.main | Database connection FAILED
+2026-01-25 23:54:02 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-25 23:54:03 | INFO | startup | HR Logging system initialized
+2026-01-25 23:54:03 | INFO | startup | Environment: DEV
+2026-01-25 23:54:03 | INFO | startup | Log level: INFO
+2026-01-25 23:54:03 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:54:04 | INFO | app.main | ===================================
+2026-01-25 23:54:04 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-25 23:54:04 | INFO | app.main | ===================================
+2026-01-25 23:54:04 | INFO | app.main | Environment : DEV
+2026-01-25 23:54:04 | INFO | app.main | Debug       : True
+2026-01-25 23:54:04 | ERROR | app.main | Database connection FAILED
+2026-01-25 23:54:06 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-25 23:54:07 | INFO | startup | HR Logging system initialized
+2026-01-25 23:54:07 | INFO | startup | Environment: DEV
+2026-01-25 23:54:07 | INFO | startup | Log level: INFO
+2026-01-25 23:54:07 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:54:07 | INFO | app.main | ===================================
+2026-01-25 23:54:07 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-25 23:54:07 | INFO | app.main | ===================================
+2026-01-25 23:54:07 | INFO | app.main | Environment : DEV
+2026-01-25 23:54:07 | INFO | app.main | Debug       : True
+2026-01-25 23:54:07 | ERROR | app.main | Database connection FAILED
+2026-01-25 23:54:09 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-25 23:54:10 | INFO | startup | HR Logging system initialized
+2026-01-25 23:54:10 | INFO | startup | Environment: DEV
+2026-01-25 23:54:10 | INFO | startup | Log level: INFO
+2026-01-25 23:54:10 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:54:11 | INFO | app.main | ===================================
+2026-01-25 23:54:11 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-25 23:54:11 | INFO | app.main | ===================================
+2026-01-25 23:54:11 | INFO | app.main | Environment : DEV
+2026-01-25 23:54:11 | INFO | app.main | Debug       : True
+2026-01-25 23:54:11 | ERROR | app.main | Database connection FAILED
+2026-01-25 23:54:12 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-25 23:54:13 | INFO | startup | HR Logging system initialized
+2026-01-25 23:54:13 | INFO | startup | Environment: DEV
+2026-01-25 23:54:13 | INFO | startup | Log level: INFO
+2026-01-25 23:54:13 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:54:13 | INFO | app.main | ===================================
+2026-01-25 23:54:13 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-25 23:54:13 | INFO | app.main | ===================================
+2026-01-25 23:54:13 | INFO | app.main | Environment : DEV
+2026-01-25 23:54:13 | INFO | app.main | Debug       : True
+2026-01-25 23:54:13 | ERROR | app.main | Database connection FAILED
+2026-01-25 23:54:14 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-25 23:54:15 | INFO | startup | HR Logging system initialized
+2026-01-25 23:54:15 | INFO | startup | Environment: DEV
+2026-01-25 23:54:15 | INFO | startup | Log level: INFO
+2026-01-25 23:54:15 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:54:15 | INFO | app.main | ===================================
+2026-01-25 23:54:15 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-25 23:54:15 | INFO | app.main | ===================================
+2026-01-25 23:54:15 | INFO | app.main | Environment : DEV
+2026-01-25 23:54:15 | INFO | app.main | Debug       : True
+2026-01-25 23:54:15 | ERROR | app.main | Database connection FAILED
+2026-01-25 23:54:20 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-25 23:54:21 | INFO | startup | HR Logging system initialized
+2026-01-25 23:54:21 | INFO | startup | Environment: DEV
+2026-01-25 23:54:21 | INFO | startup | Log level: INFO
+2026-01-25 23:54:21 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:54:22 | INFO | startup | HR Logging system initialized
+2026-01-25 23:54:22 | INFO | startup | Environment: DEV
+2026-01-25 23:54:22 | INFO | startup | Log level: INFO
+2026-01-25 23:54:22 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:54:23 | INFO | app.main | ===================================
+2026-01-25 23:54:23 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-25 23:54:23 | INFO | app.main | ===================================
+2026-01-25 23:54:23 | INFO | app.main | Environment : DEV
+2026-01-25 23:54:23 | INFO | app.main | Debug       : True
+2026-01-25 23:54:23 | ERROR | app.main | Database connection FAILED
+2026-01-25 23:54:24 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-25 23:54:25 | INFO | startup | HR Logging system initialized
+2026-01-25 23:54:25 | INFO | startup | Environment: DEV
+2026-01-25 23:54:25 | INFO | startup | Log level: INFO
+2026-01-25 23:54:25 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:54:25 | INFO | app.main | ===================================
+2026-01-25 23:54:25 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-25 23:54:25 | INFO | app.main | ===================================
+2026-01-25 23:54:25 | INFO | app.main | Environment : DEV
+2026-01-25 23:54:25 | INFO | app.main | Debug       : True
+2026-01-25 23:54:25 | ERROR | app.main | Database connection FAILED
+2026-01-25 23:54:25 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-25 23:54:26 | INFO | startup | HR Logging system initialized
+2026-01-25 23:54:26 | INFO | startup | Environment: DEV
+2026-01-25 23:54:26 | INFO | startup | Log level: INFO
+2026-01-25 23:54:26 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:54:27 | INFO | app.main | ===================================
+2026-01-25 23:54:27 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-25 23:54:27 | INFO | app.main | ===================================
+2026-01-25 23:54:27 | INFO | app.main | Environment : DEV
+2026-01-25 23:54:27 | INFO | app.main | Debug       : True
+2026-01-25 23:54:27 | ERROR | app.main | Database connection FAILED
+2026-01-25 23:54:27 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-25 23:54:28 | INFO | startup | HR Logging system initialized
+2026-01-25 23:54:28 | INFO | startup | Environment: DEV
+2026-01-25 23:54:28 | INFO | startup | Log level: INFO
+2026-01-25 23:54:28 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:54:29 | INFO | app.main | ===================================
+2026-01-25 23:54:29 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-25 23:54:29 | INFO | app.main | ===================================
+2026-01-25 23:54:29 | INFO | app.main | Environment : DEV
+2026-01-25 23:54:29 | INFO | app.main | Debug       : True
+2026-01-25 23:54:29 | ERROR | app.main | Database connection FAILED
+2026-01-25 23:54:29 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-25 23:54:30 | INFO | startup | HR Logging system initialized
+2026-01-25 23:54:30 | INFO | startup | Environment: DEV
+2026-01-25 23:54:30 | INFO | startup | Log level: INFO
+2026-01-25 23:54:30 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:54:30 | INFO | app.main | ===================================
+2026-01-25 23:54:30 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-25 23:54:30 | INFO | app.main | ===================================
+2026-01-25 23:54:30 | INFO | app.main | Environment : DEV
+2026-01-25 23:54:30 | INFO | app.main | Debug       : True
+2026-01-25 23:54:30 | ERROR | app.main | Database connection FAILED
+2026-01-25 23:54:30 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-25 23:54:31 | INFO | startup | HR Logging system initialized
+2026-01-25 23:54:31 | INFO | startup | Environment: DEV
+2026-01-25 23:54:31 | INFO | startup | Log level: INFO
+2026-01-25 23:54:31 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:54:32 | INFO | app.main | ===================================
+2026-01-25 23:54:32 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-25 23:54:32 | INFO | app.main | ===================================
+2026-01-25 23:54:32 | INFO | app.main | Environment : DEV
+2026-01-25 23:54:32 | INFO | app.main | Debug       : True
+2026-01-25 23:54:32 | ERROR | app.main | Database connection FAILED
+2026-01-25 23:54:36 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-25 23:54:37 | INFO | startup | HR Logging system initialized
+2026-01-25 23:54:37 | INFO | startup | Environment: DEV
+2026-01-25 23:54:37 | INFO | startup | Log level: INFO
+2026-01-25 23:54:37 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:54:38 | INFO | app.main | ===================================
+2026-01-25 23:54:38 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-25 23:54:38 | INFO | app.main | ===================================
+2026-01-25 23:54:38 | INFO | app.main | Environment : DEV
+2026-01-25 23:54:38 | INFO | app.main | Debug       : True
+2026-01-25 23:54:38 | ERROR | app.main | Database connection FAILED
+2026-01-25 23:55:36 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-25 23:55:36 | INFO | startup | HR Logging system initialized
+2026-01-25 23:55:36 | INFO | startup | Environment: DEV
+2026-01-25 23:55:36 | INFO | startup | Log level: INFO
+2026-01-25 23:55:36 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:55:45 | INFO | startup | HR Logging system initialized
+2026-01-25 23:55:45 | INFO | startup | Environment: DEV
+2026-01-25 23:55:45 | INFO | startup | Log level: INFO
+2026-01-25 23:55:45 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:55:45 | INFO | app.main | ===================================
+2026-01-25 23:55:45 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-25 23:55:45 | INFO | app.main | ===================================
+2026-01-25 23:55:45 | INFO | app.main | Environment : DEV
+2026-01-25 23:55:45 | INFO | app.main | Debug       : True
+2026-01-25 23:56:02 | ERROR | app.main | Database connection FAILED
+2026-01-25 23:56:02 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-25 23:56:03 | INFO | startup | HR Logging system initialized
+2026-01-25 23:56:03 | INFO | startup | Environment: DEV
+2026-01-25 23:56:03 | INFO | startup | Log level: INFO
+2026-01-25 23:56:03 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:56:03 | INFO | app.main | ===================================
+2026-01-25 23:56:03 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-25 23:56:03 | INFO | app.main | ===================================
+2026-01-25 23:56:03 | INFO | app.main | Environment : DEV
+2026-01-25 23:56:03 | INFO | app.main | Debug       : True
+2026-01-25 23:56:21 | ERROR | app.main | Database connection FAILED
+2026-01-25 23:56:21 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-25 23:56:21 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-25 23:56:21 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-25 23:56:21 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-25 23:56:52 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-25 23:56:54 | INFO | startup | HR Logging system initialized
+2026-01-25 23:56:54 | INFO | startup | Environment: DEV
+2026-01-25 23:56:54 | INFO | startup | Log level: INFO
+2026-01-25 23:56:54 | INFO | startup | Log file: logs/app.log
+2026-01-25 23:56:54 | INFO | app.main | ===================================
+2026-01-25 23:56:54 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-25 23:56:54 | INFO | app.main | ===================================
+2026-01-25 23:56:54 | INFO | app.main | Environment : DEV
+2026-01-25 23:56:54 | INFO | app.main | Debug       : True
+2026-01-25 23:56:54 | ERROR | app.main | Database connection FAILED
+2026-01-25 23:56:56 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-25 23:56:57 | INFO | startup | HR Logging system initialized
+2026-01-25 23:56:57 | INFO | startup | Environment: DEV
+2026-01-25 23:56:57 | INFO | startup | Log level: INFO
+2026-01-25 23:56:57 | INFO | startup | Log file: logs/app.log
+2026-01-26 00:14:42 | INFO | startup | HR Logging system initialized
+2026-01-26 00:14:42 | INFO | startup | Environment: DEV
+2026-01-26 00:14:42 | INFO | startup | Log level: INFO
+2026-01-26 00:14:42 | INFO | startup | Log file: logs/app.log
+2026-01-26 00:14:43 | INFO | app.main | ===================================
+2026-01-26 00:14:43 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-26 00:14:43 | INFO | app.main | ===================================
+2026-01-26 00:14:43 | INFO | app.main | Environment : DEV
+2026-01-26 00:14:43 | INFO | app.main | Debug       : True
+2026-01-26 00:14:43 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-26 00:14:43 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-26 00:14:43 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-26 00:14:43 | INFO | sqlalchemy.engine.Engine | [generated in 0.00048s] ()
+2026-01-26 00:14:43 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-26 00:14:43 | INFO | sqlalchemy.engine.Engine | [generated in 0.00088s] ()
+2026-01-26 00:14:43 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-26 00:14:43 | INFO | sqlalchemy.engine.Engine | [generated in 0.00043s] ()
+2026-01-26 00:14:43 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-26 00:14:43 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-26 00:14:43 | INFO | sqlalchemy.engine.Engine | [generated in 0.00095s] ()
+2026-01-26 00:14:43 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-26 00:14:43 | INFO | app.main | Database connection OK
+2026-01-26 00:14:52 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-26 00:14:52 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-26 00:14:52 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-26 00:14:52 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            Gender,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-26 00:14:52 | INFO | sqlalchemy.engine.Engine | [generated in 0.00115s] ()
+2026-01-26 00:14:52 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-26 00:14:54 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-26 00:14:54 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-26 00:14:54 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-26 00:14:54 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            Gender,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-26 00:14:54 | INFO | sqlalchemy.engine.Engine | [cached since 1.871s ago] ()
+2026-01-26 00:14:54 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-26 00:15:23 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-26 00:15:23 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-26 00:15:23 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-26 00:15:23 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            Gender,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-26 00:15:23 | INFO | sqlalchemy.engine.Engine | [cached since 30.82s ago] ()
+2026-01-26 00:15:23 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-26 00:15:54 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-26 00:15:57 | INFO | startup | HR Logging system initialized
+2026-01-26 00:15:57 | INFO | startup | Environment: DEV
+2026-01-26 00:15:57 | INFO | startup | Log level: INFO
+2026-01-26 00:15:57 | INFO | startup | Log file: logs/app.log
+2026-01-26 00:15:58 | INFO | app.main | ===================================
+2026-01-26 00:15:58 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-26 00:15:58 | INFO | app.main | ===================================
+2026-01-26 00:15:58 | INFO | app.main | Environment : DEV
+2026-01-26 00:15:58 | INFO | app.main | Debug       : True
+2026-01-26 00:15:58 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-26 00:15:58 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-26 00:15:58 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-26 00:15:58 | INFO | sqlalchemy.engine.Engine | [generated in 0.00072s] ()
+2026-01-26 00:15:58 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-26 00:15:58 | INFO | sqlalchemy.engine.Engine | [generated in 0.00070s] ()
+2026-01-26 00:15:58 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-26 00:15:58 | INFO | sqlalchemy.engine.Engine | [generated in 0.00056s] ()
+2026-01-26 00:15:58 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-26 00:15:58 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-26 00:15:58 | INFO | sqlalchemy.engine.Engine | [generated in 0.00137s] ()
+2026-01-26 00:15:58 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-26 00:15:58 | INFO | app.main | Database connection OK
+2026-01-26 00:17:00 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-26 00:17:00 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-26 00:17:00 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-26 00:17:00 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            Gender,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-26 00:17:00 | INFO | sqlalchemy.engine.Engine | [generated in 0.00106s] ()
+2026-01-26 00:17:00 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-26 00:17:02 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-26 00:17:02 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-26 00:17:02 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-26 00:17:02 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            Gender,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-26 00:17:02 | INFO | sqlalchemy.engine.Engine | [cached since 1.819s ago] ()
+2026-01-26 00:17:02 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-26 00:19:38 | INFO | app.modules.hr.router | User [m.sepahkar] requested teams (service=False, eval=False)
+2026-01-26 00:19:38 | INFO | app.modules.hr.service | Fetching all teams
+2026-01-26 00:19:38 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-26 00:19:38 | INFO | sqlalchemy.engine.Engine | 
+        SELECT *
+        FROM Team
+    
+2026-01-26 00:19:38 | INFO | sqlalchemy.engine.Engine | [generated in 0.00377s] ()
+2026-01-26 00:19:38 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-26 00:24:55 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-26 00:24:56 | INFO | startup | HR Logging system initialized
+2026-01-26 00:24:56 | INFO | startup | Environment: DEV
+2026-01-26 00:24:56 | INFO | startup | Log level: INFO
+2026-01-26 00:24:56 | INFO | startup | Log file: logs/app.log
+2026-01-26 00:24:56 | INFO | app.main | ===================================
+2026-01-26 00:24:56 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-26 00:24:56 | INFO | app.main | ===================================
+2026-01-26 00:24:56 | INFO | app.main | Environment : DEV
+2026-01-26 00:24:56 | INFO | app.main | Debug       : True
+2026-01-26 00:24:56 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-26 00:24:56 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-26 00:24:56 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-26 00:24:56 | INFO | sqlalchemy.engine.Engine | [generated in 0.00062s] ()
+2026-01-26 00:24:56 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-26 00:24:56 | INFO | sqlalchemy.engine.Engine | [generated in 0.00066s] ()
+2026-01-26 00:24:56 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-26 00:24:56 | INFO | sqlalchemy.engine.Engine | [generated in 0.00069s] ()
+2026-01-26 00:24:56 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-26 00:24:56 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-26 00:24:56 | INFO | sqlalchemy.engine.Engine | [generated in 0.00197s] ()
+2026-01-26 00:24:56 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-26 00:24:56 | INFO | app.main | Database connection OK
+2026-01-26 00:24:56 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-26 00:24:57 | INFO | startup | HR Logging system initialized
+2026-01-26 00:24:57 | INFO | startup | Environment: DEV
+2026-01-26 00:24:57 | INFO | startup | Log level: INFO
+2026-01-26 00:24:57 | INFO | startup | Log file: logs/app.log
+2026-01-26 00:24:58 | INFO | app.main | ===================================
+2026-01-26 00:24:58 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-26 00:24:58 | INFO | app.main | ===================================
+2026-01-26 00:24:58 | INFO | app.main | Environment : DEV
+2026-01-26 00:24:58 | INFO | app.main | Debug       : True
+2026-01-26 00:24:58 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-26 00:24:58 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-26 00:24:58 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-26 00:24:58 | INFO | sqlalchemy.engine.Engine | [generated in 0.00129s] ()
+2026-01-26 00:24:58 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-26 00:24:58 | INFO | sqlalchemy.engine.Engine | [generated in 0.00060s] ()
+2026-01-26 00:24:58 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-26 00:24:58 | INFO | sqlalchemy.engine.Engine | [generated in 0.00049s] ()
+2026-01-26 00:24:58 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-26 00:24:58 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-26 00:24:58 | INFO | sqlalchemy.engine.Engine | [generated in 0.00085s] ()
+2026-01-26 00:24:58 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-26 00:24:58 | INFO | app.main | Database connection OK
+2026-01-26 00:25:00 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-26 00:25:01 | INFO | startup | HR Logging system initialized
+2026-01-26 00:25:01 | INFO | startup | Environment: DEV
+2026-01-26 00:25:01 | INFO | startup | Log level: INFO
+2026-01-26 00:25:01 | INFO | startup | Log file: logs/app.log
+2026-01-26 00:25:10 | INFO | startup | HR Logging system initialized
+2026-01-26 00:25:10 | INFO | startup | Environment: DEV
+2026-01-26 00:25:10 | INFO | startup | Log level: INFO
+2026-01-26 00:25:10 | INFO | startup | Log file: logs/app.log
+2026-01-26 00:25:49 | INFO | startup | HR Logging system initialized
+2026-01-26 00:25:49 | INFO | startup | Environment: DEV
+2026-01-26 00:25:49 | INFO | startup | Log level: INFO
+2026-01-26 00:25:49 | INFO | startup | Log file: logs/app.log
+2026-01-26 00:26:05 | INFO | startup | HR Logging system initialized
+2026-01-26 00:26:05 | INFO | startup | Environment: DEV
+2026-01-26 00:26:05 | INFO | startup | Log level: INFO
+2026-01-26 00:26:05 | INFO | startup | Log file: logs/app.log
+2026-01-26 00:26:29 | INFO | startup | HR Logging system initialized
+2026-01-26 00:26:29 | INFO | startup | Environment: DEV
+2026-01-26 00:26:29 | INFO | startup | Log level: INFO
+2026-01-26 00:26:29 | INFO | startup | Log file: logs/app.log
+2026-01-26 00:26:30 | INFO | app.main | ===================================
+2026-01-26 00:26:30 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-26 00:26:30 | INFO | app.main | ===================================
+2026-01-26 00:26:30 | INFO | app.main | Environment : DEV
+2026-01-26 00:26:30 | INFO | app.main | Debug       : True
+2026-01-26 00:26:30 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-26 00:26:30 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-26 00:26:30 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-26 00:26:30 | INFO | sqlalchemy.engine.Engine | [generated in 0.00047s] ()
+2026-01-26 00:26:30 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-26 00:26:30 | INFO | sqlalchemy.engine.Engine | [generated in 0.00076s] ()
+2026-01-26 00:26:30 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-26 00:26:30 | INFO | sqlalchemy.engine.Engine | [generated in 0.00045s] ()
+2026-01-26 00:26:30 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-26 00:26:30 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-26 00:26:30 | INFO | sqlalchemy.engine.Engine | [generated in 0.00127s] ()
+2026-01-26 00:26:30 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-26 00:26:30 | INFO | app.main | Database connection OK
+2026-01-26 00:26:34 | INFO | app.modules.hr.router | User [m.sepahkar] requested teams (service=False, eval=False)
+2026-01-26 00:26:34 | INFO | app.modules.hr.service | Fetching all teams
+2026-01-26 00:26:34 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-26 00:26:34 | INFO | sqlalchemy.engine.Engine | 
+        SELECT *
+        FROM Team
+    
+2026-01-26 00:26:34 | INFO | sqlalchemy.engine.Engine | [generated in 0.00223s] ()
+2026-01-26 00:26:34 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-26 00:26:35 | INFO | app.modules.hr.router | User [m.sepahkar] requested teams (service=False, eval=False)
+2026-01-26 00:26:35 | INFO | app.modules.hr.service | Fetching all teams
+2026-01-26 00:26:35 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-26 00:26:35 | INFO | sqlalchemy.engine.Engine | 
+        SELECT *
+        FROM Team
+    
+2026-01-26 00:26:35 | INFO | sqlalchemy.engine.Engine | [cached since 1.093s ago] ()
+2026-01-26 00:26:35 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-26 00:28:00 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-26 00:28:00 | INFO | startup | HR Logging system initialized
+2026-01-26 00:28:00 | INFO | startup | Environment: DEV
+2026-01-26 00:28:00 | INFO | startup | Log level: INFO
+2026-01-26 00:28:00 | INFO | startup | Log file: logs/app.log
+2026-01-26 00:28:18 | INFO | startup | HR Logging system initialized
+2026-01-26 00:28:18 | INFO | startup | Environment: DEV
+2026-01-26 00:28:18 | INFO | startup | Log level: INFO
+2026-01-26 00:28:18 | INFO | startup | Log file: logs/app.log
+2026-01-26 00:28:30 | INFO | startup | HR Logging system initialized
+2026-01-26 00:28:30 | INFO | startup | Environment: DEV
+2026-01-26 00:28:30 | INFO | startup | Log level: INFO
+2026-01-26 00:28:30 | INFO | startup | Log file: logs/app.log
+2026-01-26 00:28:30 | INFO | app.main | ===================================
+2026-01-26 00:28:30 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-26 00:28:30 | INFO | app.main | ===================================
+2026-01-26 00:28:30 | INFO | app.main | Environment : DEV
+2026-01-26 00:28:30 | INFO | app.main | Debug       : True
+2026-01-26 00:28:31 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-26 00:28:31 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-26 00:28:31 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-26 00:28:31 | INFO | sqlalchemy.engine.Engine | [generated in 0.00079s] ()
+2026-01-26 00:28:31 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-26 00:28:31 | INFO | sqlalchemy.engine.Engine | [generated in 0.00077s] ()
+2026-01-26 00:28:31 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-26 00:28:31 | INFO | sqlalchemy.engine.Engine | [generated in 0.00062s] ()
+2026-01-26 00:28:31 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-26 00:28:31 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-26 00:28:31 | INFO | sqlalchemy.engine.Engine | [generated in 0.00154s] ()
+2026-01-26 00:28:31 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-26 00:28:31 | INFO | app.main | Database connection OK
+2026-01-26 00:29:49 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-26 00:29:50 | INFO | startup | HR Logging system initialized
+2026-01-26 00:29:50 | INFO | startup | Environment: DEV
+2026-01-26 00:29:50 | INFO | startup | Log level: INFO
+2026-01-26 00:29:50 | INFO | startup | Log file: logs/app.log
+2026-01-26 00:29:57 | INFO | startup | HR Logging system initialized
+2026-01-26 00:29:57 | INFO | startup | Environment: DEV
+2026-01-26 00:29:57 | INFO | startup | Log level: INFO
+2026-01-26 00:29:57 | INFO | startup | Log file: logs/app.log
+2026-01-26 00:29:58 | INFO | app.main | ===================================
+2026-01-26 00:29:58 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-26 00:29:58 | INFO | app.main | ===================================
+2026-01-26 00:29:58 | INFO | app.main | Environment : DEV
+2026-01-26 00:29:58 | INFO | app.main | Debug       : True
+2026-01-26 00:29:58 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-26 00:29:58 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-26 00:29:58 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-26 00:29:58 | INFO | sqlalchemy.engine.Engine | [generated in 0.00048s] ()
+2026-01-26 00:29:58 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-26 00:29:58 | INFO | sqlalchemy.engine.Engine | [generated in 0.00068s] ()
+2026-01-26 00:29:58 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-26 00:29:58 | INFO | sqlalchemy.engine.Engine | [generated in 0.00044s] ()
+2026-01-26 00:29:58 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-26 00:29:58 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-26 00:29:58 | INFO | sqlalchemy.engine.Engine | [generated in 0.00124s] ()
+2026-01-26 00:29:58 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-26 00:29:58 | INFO | app.main | Database connection OK
+2026-01-26 00:35:36 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-26 00:35:37 | INFO | startup | HR Logging system initialized
+2026-01-26 00:35:37 | INFO | startup | Environment: DEV
+2026-01-26 00:35:37 | INFO | startup | Log level: INFO
+2026-01-26 00:35:37 | INFO | startup | Log file: logs/app.log
+2026-01-26 00:35:37 | INFO | app.main | ===================================
+2026-01-26 00:35:37 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-26 00:35:37 | INFO | app.main | ===================================
+2026-01-26 00:35:37 | INFO | app.main | Environment : DEV
+2026-01-26 00:35:37 | INFO | app.main | Debug       : True
+2026-01-26 00:35:37 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-26 00:35:37 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-26 00:35:37 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-26 00:35:37 | INFO | sqlalchemy.engine.Engine | [generated in 0.00065s] ()
+2026-01-26 00:35:37 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-26 00:35:37 | INFO | sqlalchemy.engine.Engine | [generated in 0.00091s] ()
+2026-01-26 00:35:37 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-26 00:35:37 | INFO | sqlalchemy.engine.Engine | [generated in 0.00070s] ()
+2026-01-26 00:35:38 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-26 00:35:38 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-26 00:35:38 | INFO | sqlalchemy.engine.Engine | [generated in 0.00115s] ()
+2026-01-26 00:35:38 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-26 00:35:38 | INFO | app.main | Database connection OK
+2026-01-26 00:40:12 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-26 00:40:13 | INFO | startup | HR Logging system initialized
+2026-01-26 00:40:13 | INFO | startup | Environment: DEV
+2026-01-26 00:40:13 | INFO | startup | Log level: INFO
+2026-01-26 00:40:13 | INFO | startup | Log file: logs/app.log
+2026-01-26 00:40:13 | INFO | app.main | ===================================
+2026-01-26 00:40:13 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-26 00:40:13 | INFO | app.main | ===================================
+2026-01-26 00:40:13 | INFO | app.main | Environment : DEV
+2026-01-26 00:40:13 | INFO | app.main | Debug       : True
+2026-01-26 00:40:13 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-26 00:40:13 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-26 00:40:13 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-26 00:40:13 | INFO | sqlalchemy.engine.Engine | [generated in 0.00038s] ()
+2026-01-26 00:40:13 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-26 00:40:13 | INFO | sqlalchemy.engine.Engine | [generated in 0.00067s] ()
+2026-01-26 00:40:13 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-26 00:40:13 | INFO | sqlalchemy.engine.Engine | [generated in 0.00049s] ()
+2026-01-26 00:40:13 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-26 00:40:13 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-26 00:40:13 | INFO | sqlalchemy.engine.Engine | [generated in 0.00114s] ()
+2026-01-26 00:40:13 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-26 00:40:13 | INFO | app.main | Database connection OK
+2026-01-26 00:40:19 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-26 00:40:20 | INFO | startup | HR Logging system initialized
+2026-01-26 00:40:20 | INFO | startup | Environment: DEV
+2026-01-26 00:40:20 | INFO | startup | Log level: INFO
+2026-01-26 00:40:20 | INFO | startup | Log file: logs/app.log
+2026-01-26 00:40:20 | INFO | app.main | ===================================
+2026-01-26 00:40:20 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-26 00:40:20 | INFO | app.main | ===================================
+2026-01-26 00:40:20 | INFO | app.main | Environment : DEV
+2026-01-26 00:40:20 | INFO | app.main | Debug       : True
+2026-01-26 00:40:20 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-26 00:40:20 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-26 00:40:20 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-26 00:40:20 | INFO | sqlalchemy.engine.Engine | [generated in 0.00048s] ()
+2026-01-26 00:40:20 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-26 00:40:20 | INFO | sqlalchemy.engine.Engine | [generated in 0.00042s] ()
+2026-01-26 00:40:20 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-26 00:40:20 | INFO | sqlalchemy.engine.Engine | [generated in 0.00045s] ()
+2026-01-26 00:40:20 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-26 00:40:20 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-26 00:40:20 | INFO | sqlalchemy.engine.Engine | [generated in 0.00103s] ()
+2026-01-26 00:40:20 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-26 00:40:20 | INFO | app.main | Database connection OK
+2026-01-26 00:49:10 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-26 00:49:10 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-26 00:49:10 | INFO | sqlalchemy.engine.Engine | [cached since 529.9s ago] ()
+2026-01-26 00:49:10 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-26 00:49:23 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-26 00:49:23 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-26 00:49:23 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-26 00:49:23 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            Gender,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-26 00:49:23 | INFO | sqlalchemy.engine.Engine | [generated in 0.00304s] ()
+2026-01-26 00:49:23 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-26 00:54:09 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-26 00:54:09 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-26 00:54:09 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-26 00:54:09 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            Gender,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-26 00:54:09 | INFO | sqlalchemy.engine.Engine | [cached since 286.4s ago] ()
+2026-01-26 00:54:09 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-26 00:54:15 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-26 00:54:15 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-26 00:54:15 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-26 00:54:15 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            Gender,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-26 00:54:15 | INFO | sqlalchemy.engine.Engine | [cached since 291.8s ago] ()
+2026-01-26 00:54:15 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-26 00:54:17 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-26 00:54:17 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-26 00:54:17 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-26 00:54:17 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            Gender,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-26 00:54:17 | INFO | sqlalchemy.engine.Engine | [cached since 294.1s ago] ()
+2026-01-26 00:54:17 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-26 01:00:48 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-28 13:53:29 | INFO | startup | HR Logging system initialized
+2026-01-28 13:53:29 | INFO | startup | Environment: DEV
+2026-01-28 13:53:29 | INFO | startup | Log level: INFO
+2026-01-28 13:53:29 | INFO | startup | Log file: logs/app.log
+2026-01-28 13:53:29 | INFO | app.main | ===================================
+2026-01-28 13:53:29 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-28 13:53:29 | INFO | app.main | ===================================
+2026-01-28 13:53:29 | INFO | app.main | Environment : DEV
+2026-01-28 13:53:29 | INFO | app.main | Debug       : True
+2026-01-28 13:53:30 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-28 13:53:30 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-28 13:53:30 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-28 13:53:30 | INFO | sqlalchemy.engine.Engine | [generated in 0.00206s] ()
+2026-01-28 13:53:30 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-28 13:53:30 | INFO | sqlalchemy.engine.Engine | [generated in 0.00088s] ()
+2026-01-28 13:53:30 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-28 13:53:30 | INFO | sqlalchemy.engine.Engine | [generated in 0.00065s] ()
+2026-01-28 13:53:30 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 13:53:30 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-28 13:53:30 | INFO | sqlalchemy.engine.Engine | [generated in 0.00149s] ()
+2026-01-28 13:53:30 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-28 13:53:30 | INFO | app.main | Database connection OK
+2026-01-28 13:54:36 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-28 13:54:36 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-28 13:54:36 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 13:54:36 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            Gender,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-28 13:54:36 | INFO | sqlalchemy.engine.Engine | [generated in 0.00248s] ()
+2026-01-28 13:54:36 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-28 14:00:53 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-28 14:00:55 | INFO | startup | HR Logging system initialized
+2026-01-28 14:00:55 | INFO | startup | Environment: DEV
+2026-01-28 14:00:55 | INFO | startup | Log level: INFO
+2026-01-28 14:00:55 | INFO | startup | Log file: logs/app.log
+2026-01-28 14:00:56 | INFO | app.main | ===================================
+2026-01-28 14:00:56 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-28 14:00:56 | INFO | app.main | ===================================
+2026-01-28 14:00:56 | INFO | app.main | Environment : DEV
+2026-01-28 14:00:56 | INFO | app.main | Debug       : True
+2026-01-28 14:00:56 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-28 14:00:56 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-28 14:00:56 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-28 14:00:56 | INFO | sqlalchemy.engine.Engine | [generated in 0.00081s] ()
+2026-01-28 14:00:56 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-28 14:00:56 | INFO | sqlalchemy.engine.Engine | [generated in 0.00113s] ()
+2026-01-28 14:00:56 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-28 14:00:56 | INFO | sqlalchemy.engine.Engine | [generated in 0.00104s] ()
+2026-01-28 14:00:56 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 14:00:56 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-28 14:00:56 | INFO | sqlalchemy.engine.Engine | [generated in 0.00119s] ()
+2026-01-28 14:00:56 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-28 14:00:56 | INFO | app.main | Database connection OK
+2026-01-28 14:00:57 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-28 14:00:57 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-28 14:00:57 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 14:00:57 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-28 14:00:57 | INFO | sqlalchemy.engine.Engine | [generated in 0.00287s] ()
+2026-01-28 14:00:57 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-28 14:08:54 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-28 14:08:59 | INFO | startup | HR Logging system initialized
+2026-01-28 14:08:59 | INFO | startup | Environment: DEV
+2026-01-28 14:08:59 | INFO | startup | Log level: INFO
+2026-01-28 14:08:59 | INFO | startup | Log file: logs/app.log
+2026-01-28 14:09:00 | INFO | app.main | ===================================
+2026-01-28 14:09:00 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-28 14:09:00 | INFO | app.main | ===================================
+2026-01-28 14:09:00 | INFO | app.main | Environment : DEV
+2026-01-28 14:09:00 | INFO | app.main | Debug       : True
+2026-01-28 14:09:01 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-28 14:09:01 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-28 14:09:01 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-28 14:09:01 | INFO | sqlalchemy.engine.Engine | [generated in 0.00360s] ()
+2026-01-28 14:09:01 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-28 14:09:01 | INFO | sqlalchemy.engine.Engine | [generated in 0.00124s] ()
+2026-01-28 14:09:01 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-28 14:09:01 | INFO | sqlalchemy.engine.Engine | [generated in 0.00160s] ()
+2026-01-28 14:09:01 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 14:09:01 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-28 14:09:01 | INFO | sqlalchemy.engine.Engine | [generated in 0.00260s] ()
+2026-01-28 14:09:01 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-28 14:09:01 | INFO | app.main | Database connection OK
+2026-01-28 14:10:25 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-28 14:10:25 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-28 14:10:25 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 14:10:25 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-28 14:10:25 | INFO | sqlalchemy.engine.Engine | [generated in 0.00301s] ()
+2026-01-28 14:10:26 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-28 14:14:11 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-28 14:14:11 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-28 14:14:11 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 14:14:11 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-28 14:14:11 | INFO | sqlalchemy.engine.Engine | [cached since 225.4s ago] ()
+2026-01-28 14:14:11 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-28 14:15:30 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-28 14:15:36 | INFO | startup | HR Logging system initialized
+2026-01-28 14:15:36 | INFO | startup | Environment: DEV
+2026-01-28 14:15:36 | INFO | startup | Log level: INFO
+2026-01-28 14:15:36 | INFO | startup | Log file: logs/app.log
+2026-01-28 14:15:38 | INFO | app.main | ===================================
+2026-01-28 14:15:38 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-28 14:15:38 | INFO | app.main | ===================================
+2026-01-28 14:15:38 | INFO | app.main | Environment : DEV
+2026-01-28 14:15:38 | INFO | app.main | Debug       : True
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | [generated in 0.00414s] ()
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | [generated in 0.00280s] ()
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | [generated in 0.00219s] ()
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | [generated in 0.00329s] ()
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-28 14:15:39 | INFO | app.main | Database connection OK
+2026-01-28 14:15:39 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-28 14:15:39 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-28 14:15:39 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-28 14:15:39 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-28 14:15:39 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-28 14:15:39 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-28 14:15:39 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-28 14:15:39 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | [generated in 0.00575s] ()
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | [cached since 0.02042s ago] ()
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | [cached since 0.0223s ago] ()
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | [cached since 0.02431s ago] ()
+2026-01-28 14:15:39 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-28 14:15:39 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | [cached since 0.1005s ago] ()
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-28 14:15:39 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-28 14:15:40 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-28 14:15:40 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-28 14:16:04 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-28 14:16:04 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-28 14:16:04 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 14:16:04 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-28 14:16:04 | INFO | sqlalchemy.engine.Engine | [cached since 24.7s ago] ()
+2026-01-28 14:16:04 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-28 20:08:58 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-28 20:08:58 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-28 20:08:58 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 20:08:58 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-28 20:08:58 | INFO | sqlalchemy.engine.Engine | [cached since 2.12e+04s ago] ()
+2026-01-28 20:08:58 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-28 20:10:11 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 20:10:11 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-28 20:10:11 | INFO | sqlalchemy.engine.Engine | [cached since 2.127e+04s ago] ()
+2026-01-28 20:10:11 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-28 20:22:22 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-28 20:22:22 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-28 20:22:22 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 20:22:22 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-28 20:22:22 | INFO | sqlalchemy.engine.Engine | [cached since 2.2e+04s ago] ()
+2026-01-28 20:22:22 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-28 20:26:13 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-28 22:22:51 | INFO | startup | HR Logging system initialized
+2026-01-28 22:22:51 | INFO | startup | Environment: DEV
+2026-01-28 22:22:51 | INFO | startup | Log level: INFO
+2026-01-28 22:22:51 | INFO | startup | Log file: logs/app.log
+2026-01-28 22:22:51 | INFO | app.main | ===================================
+2026-01-28 22:22:51 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-28 22:22:51 | INFO | app.main | ===================================
+2026-01-28 22:22:51 | INFO | app.main | Environment : DEV
+2026-01-28 22:22:51 | INFO | app.main | Debug       : True
+2026-01-28 22:22:52 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-28 22:22:52 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-28 22:22:52 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-28 22:22:52 | INFO | sqlalchemy.engine.Engine | [generated in 0.00106s] ()
+2026-01-28 22:22:52 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-28 22:22:52 | INFO | sqlalchemy.engine.Engine | [generated in 0.00117s] ()
+2026-01-28 22:22:52 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-28 22:22:52 | INFO | sqlalchemy.engine.Engine | [generated in 0.00087s] ()
+2026-01-28 22:22:52 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 22:22:52 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-28 22:22:52 | INFO | sqlalchemy.engine.Engine | [generated in 0.00209s] ()
+2026-01-28 22:22:52 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-28 22:22:52 | INFO | app.main | Database connection OK
+2026-01-28 22:24:19 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-28 22:24:19 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-28 22:24:19 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 22:24:19 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-28 22:24:19 | INFO | sqlalchemy.engine.Engine | [generated in 0.00433s] ()
+2026-01-28 22:24:19 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-28 23:37:26 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-28 23:37:26 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-28 23:37:26 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 23:37:26 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-28 23:37:26 | INFO | sqlalchemy.engine.Engine | [cached since 4388s ago] ()
+2026-01-28 23:37:27 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-28 23:37:31 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-28 23:37:31 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-28 23:37:31 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 23:37:31 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-28 23:37:31 | INFO | sqlalchemy.engine.Engine | [cached since 4393s ago] ()
+2026-01-28 23:37:31 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-28 23:39:52 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-28 23:39:52 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-28 23:39:52 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 23:39:52 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-28 23:39:52 | INFO | sqlalchemy.engine.Engine | [cached since 4534s ago] ()
+2026-01-28 23:39:53 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-28 23:41:26 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-28 23:41:26 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-28 23:41:26 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 23:41:26 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-28 23:41:26 | INFO | sqlalchemy.engine.Engine | [cached since 4627s ago] ()
+2026-01-28 23:41:26 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-28 23:45:35 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-28 23:45:35 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-28 23:45:35 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-28 23:45:35 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-28 23:45:35 | INFO | sqlalchemy.engine.Engine | [cached since 4877s ago] ()
+2026-01-28 23:45:36 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 00:21:38 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 00:21:38 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 00:21:38 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 00:21:38 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 00:21:38 | INFO | sqlalchemy.engine.Engine | [cached since 7039s ago] ()
+2026-01-29 00:21:38 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 00:22:15 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 00:22:15 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 00:22:15 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 00:22:15 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 00:22:15 | INFO | sqlalchemy.engine.Engine | [cached since 7077s ago] ()
+2026-01-29 00:22:15 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 00:23:48 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 00:23:48 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 00:23:48 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 00:23:48 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 00:23:48 | INFO | sqlalchemy.engine.Engine | [cached since 7170s ago] ()
+2026-01-29 00:23:49 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 00:25:52 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 00:25:52 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 00:25:52 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 00:25:52 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 00:25:52 | INFO | sqlalchemy.engine.Engine | [cached since 7293s ago] ()
+2026-01-29 00:25:52 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 00:26:30 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 00:26:30 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 00:26:30 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 00:26:30 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 00:26:30 | INFO | sqlalchemy.engine.Engine | [cached since 7331s ago] ()
+2026-01-29 00:26:30 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 00:32:03 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 00:32:03 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 00:32:03 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 00:32:03 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 00:32:03 | INFO | sqlalchemy.engine.Engine | [cached since 7665s ago] ()
+2026-01-29 00:32:04 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 00:32:14 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 00:32:14 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 00:32:14 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 00:32:14 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 00:32:14 | INFO | sqlalchemy.engine.Engine | [cached since 7675s ago] ()
+2026-01-29 00:32:14 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 00:33:46 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 00:33:46 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 00:33:46 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 00:33:46 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 00:33:46 | INFO | sqlalchemy.engine.Engine | [cached since 7768s ago] ()
+2026-01-29 00:33:46 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 00:33:50 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 00:33:50 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 00:33:50 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 00:33:50 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 00:33:50 | INFO | sqlalchemy.engine.Engine | [cached since 7772s ago] ()
+2026-01-29 00:33:51 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 00:36:35 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 00:36:35 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 00:36:35 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 00:36:35 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 00:36:35 | INFO | sqlalchemy.engine.Engine | [cached since 7936s ago] ()
+2026-01-29 00:36:35 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 00:36:43 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 00:36:43 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 00:36:43 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 00:36:43 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 00:36:43 | INFO | sqlalchemy.engine.Engine | [cached since 7945s ago] ()
+2026-01-29 00:36:43 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 00:37:43 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 00:37:43 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 00:37:43 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 00:37:43 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 00:37:43 | INFO | sqlalchemy.engine.Engine | [cached since 8005s ago] ()
+2026-01-29 00:37:44 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 00:39:06 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 00:39:06 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 00:39:06 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 00:39:06 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 00:39:06 | INFO | sqlalchemy.engine.Engine | [cached since 8087s ago] ()
+2026-01-29 00:39:06 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 00:40:13 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-29 00:40:19 | INFO | startup | HR Logging system initialized
+2026-01-29 00:40:19 | INFO | startup | Environment: DEV
+2026-01-29 00:40:19 | INFO | startup | Log level: INFO
+2026-01-29 00:40:19 | INFO | startup | Log file: logs/app.log
+2026-01-29 00:40:20 | INFO | app.main | ===================================
+2026-01-29 00:40:20 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-29 00:40:20 | INFO | app.main | ===================================
+2026-01-29 00:40:20 | INFO | app.main | Environment : DEV
+2026-01-29 00:40:20 | INFO | app.main | Debug       : True
+2026-01-29 00:40:21 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-29 00:40:21 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-29 00:40:21 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-29 00:40:21 | INFO | sqlalchemy.engine.Engine | [generated in 0.00157s] ()
+2026-01-29 00:40:21 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-29 00:40:21 | INFO | sqlalchemy.engine.Engine | [generated in 0.00161s] ()
+2026-01-29 00:40:21 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-29 00:40:21 | INFO | sqlalchemy.engine.Engine | [generated in 0.00105s] ()
+2026-01-29 00:40:21 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 00:40:21 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-29 00:40:21 | INFO | sqlalchemy.engine.Engine | [generated in 0.00576s] ()
+2026-01-29 00:40:21 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 00:40:21 | INFO | app.main | Database connection OK
+2026-01-29 00:40:26 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 00:40:26 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 00:40:26 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 00:40:26 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 00:40:26 | INFO | sqlalchemy.engine.Engine | [generated in 0.00781s] ()
+2026-01-29 00:40:26 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 00:42:03 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-29 00:42:12 | INFO | startup | HR Logging system initialized
+2026-01-29 00:42:12 | INFO | startup | Environment: DEV
+2026-01-29 00:42:12 | INFO | startup | Log level: INFO
+2026-01-29 00:42:12 | INFO | startup | Log file: logs/app.log
+2026-01-29 00:42:13 | INFO | app.main | ===================================
+2026-01-29 00:42:13 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-29 00:42:13 | INFO | app.main | ===================================
+2026-01-29 00:42:13 | INFO | app.main | Environment : DEV
+2026-01-29 00:42:13 | INFO | app.main | Debug       : True
+2026-01-29 00:42:13 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-29 00:42:13 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-29 00:42:13 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-29 00:42:13 | INFO | sqlalchemy.engine.Engine | [generated in 0.00242s] ()
+2026-01-29 00:42:13 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-29 00:42:13 | INFO | sqlalchemy.engine.Engine | [generated in 0.00147s] ()
+2026-01-29 00:42:13 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-29 00:42:13 | INFO | sqlalchemy.engine.Engine | [generated in 0.00176s] ()
+2026-01-29 00:42:13 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 00:42:13 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-29 00:42:13 | INFO | sqlalchemy.engine.Engine | [generated in 0.00322s] ()
+2026-01-29 00:42:14 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 00:42:14 | INFO | app.main | Database connection OK
+2026-01-29 00:42:22 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 00:42:22 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 00:42:22 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 00:42:22 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 00:42:22 | INFO | sqlalchemy.engine.Engine | [generated in 0.00260s] ()
+2026-01-29 00:42:23 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 00:44:56 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-29 00:44:59 | INFO | startup | HR Logging system initialized
+2026-01-29 00:44:59 | INFO | startup | Environment: noDEV
+2026-01-29 00:44:59 | INFO | startup | Log level: INFO
+2026-01-29 00:44:59 | INFO | startup | Log file: logs/app.log
+2026-01-29 00:45:00 | INFO | app.main | ===================================
+2026-01-29 00:45:00 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-29 00:45:00 | INFO | app.main | ===================================
+2026-01-29 00:45:00 | INFO | app.main | Environment : noDEV
+2026-01-29 00:45:00 | INFO | app.main | Debug       : True
+2026-01-29 00:45:00 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-29 00:45:00 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-29 00:45:00 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-29 00:45:00 | INFO | sqlalchemy.engine.Engine | [generated in 0.00094s] ()
+2026-01-29 00:45:00 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-29 00:45:00 | INFO | sqlalchemy.engine.Engine | [generated in 0.00113s] ()
+2026-01-29 00:45:00 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-29 00:45:00 | INFO | sqlalchemy.engine.Engine | [generated in 0.00820s] ()
+2026-01-29 00:45:00 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 00:45:00 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-29 00:45:00 | INFO | sqlalchemy.engine.Engine | [generated in 0.00167s] ()
+2026-01-29 00:45:00 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 00:45:00 | INFO | app.main | Database connection OK
+2026-01-29 00:51:13 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 00:51:13 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-29 00:51:13 | INFO | sqlalchemy.engine.Engine | [cached since 372.3s ago] ()
+2026-01-29 00:51:13 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 00:51:14 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 00:51:14 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-29 00:51:14 | INFO | sqlalchemy.engine.Engine | [cached since 373.8s ago] ()
+2026-01-29 00:51:14 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 00:51:16 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 00:51:16 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-29 00:51:16 | INFO | sqlalchemy.engine.Engine | [cached since 375.8s ago] ()
+2026-01-29 00:51:16 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 01:00:43 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-29 01:00:46 | INFO | startup | HR Logging system initialized
+2026-01-29 01:00:46 | INFO | startup | Environment: noDEV
+2026-01-29 01:00:46 | INFO | startup | Log level: INFO
+2026-01-29 01:00:46 | INFO | startup | Log file: logs/app.log
+2026-01-29 01:00:46 | INFO | app.main | ===================================
+2026-01-29 01:00:46 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-29 01:00:46 | INFO | app.main | ===================================
+2026-01-29 01:00:46 | INFO | app.main | Environment : noDEV
+2026-01-29 01:00:46 | INFO | app.main | Debug       : True
+2026-01-29 01:00:46 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-29 01:00:46 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-29 01:00:46 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-29 01:00:46 | INFO | sqlalchemy.engine.Engine | [generated in 0.00066s] ()
+2026-01-29 01:00:46 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-29 01:00:46 | INFO | sqlalchemy.engine.Engine | [generated in 0.00110s] ()
+2026-01-29 01:00:46 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-29 01:00:46 | INFO | sqlalchemy.engine.Engine | [generated in 0.00059s] ()
+2026-01-29 01:00:47 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 01:00:47 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-29 01:00:47 | INFO | sqlalchemy.engine.Engine | [generated in 0.00162s] ()
+2026-01-29 01:00:47 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 01:00:47 | INFO | app.main | Database connection OK
+2026-01-29 01:17:54 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-29 01:17:56 | INFO | startup | HR Logging system initialized
+2026-01-29 01:17:56 | INFO | startup | Environment: noDEV
+2026-01-29 01:17:56 | INFO | startup | Log level: INFO
+2026-01-29 01:17:56 | INFO | startup | Log file: logs/app.log
+2026-01-29 01:17:57 | INFO | app.main | ===================================
+2026-01-29 01:17:57 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-29 01:17:57 | INFO | app.main | ===================================
+2026-01-29 01:17:57 | INFO | app.main | Environment : noDEV
+2026-01-29 01:17:57 | INFO | app.main | Debug       : True
+2026-01-29 01:17:57 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-29 01:17:57 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-29 01:17:57 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-29 01:17:57 | INFO | sqlalchemy.engine.Engine | [generated in 0.00045s] ()
+2026-01-29 01:17:57 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-29 01:17:57 | INFO | sqlalchemy.engine.Engine | [generated in 0.00069s] ()
+2026-01-29 01:17:57 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-29 01:17:57 | INFO | sqlalchemy.engine.Engine | [generated in 0.00042s] ()
+2026-01-29 01:17:57 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 01:17:57 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-29 01:17:57 | INFO | sqlalchemy.engine.Engine | [generated in 0.00127s] ()
+2026-01-29 01:17:57 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 01:17:57 | INFO | app.main | Database connection OK
+2026-01-29 01:18:00 | INFO | app.modules.hr.router | User [alitest] requested all users
+2026-01-29 01:18:00 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 01:18:00 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 01:18:00 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 01:18:00 | INFO | sqlalchemy.engine.Engine | [generated in 0.00089s] ()
+2026-01-29 01:18:00 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 01:18:53 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-29 01:18:54 | INFO | startup | HR Logging system initialized
+2026-01-29 01:18:54 | INFO | startup | Environment: noDEV
+2026-01-29 01:18:54 | INFO | startup | Log level: INFO
+2026-01-29 01:18:54 | INFO | startup | Log file: logs/app.log
+2026-01-29 01:18:55 | INFO | app.main | ===================================
+2026-01-29 01:18:55 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-29 01:18:55 | INFO | app.main | ===================================
+2026-01-29 01:18:55 | INFO | app.main | Environment : noDEV
+2026-01-29 01:18:55 | INFO | app.main | Debug       : True
+2026-01-29 01:18:55 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-29 01:18:55 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-29 01:18:55 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-29 01:18:55 | INFO | sqlalchemy.engine.Engine | [generated in 0.00043s] ()
+2026-01-29 01:18:55 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-29 01:18:55 | INFO | sqlalchemy.engine.Engine | [generated in 0.00072s] ()
+2026-01-29 01:18:55 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-29 01:18:55 | INFO | sqlalchemy.engine.Engine | [generated in 0.00046s] ()
+2026-01-29 01:18:55 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 01:18:55 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-29 01:18:55 | INFO | sqlalchemy.engine.Engine | [generated in 0.00133s] ()
+2026-01-29 01:18:55 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 01:18:55 | INFO | app.main | Database connection OK
+2026-01-29 01:18:58 | INFO | app.modules.hr.router | User [alitest] requested all users
+2026-01-29 01:18:58 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 01:18:58 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 01:18:58 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 01:18:58 | INFO | sqlalchemy.engine.Engine | [generated in 0.00135s] ()
+2026-01-29 01:18:58 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 01:19:38 | INFO | app.modules.hr.router | User [alitesti] requested all users
+2026-01-29 01:19:38 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 01:19:38 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 01:19:38 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 01:19:38 | INFO | sqlalchemy.engine.Engine | [cached since 40.31s ago] ()
+2026-01-29 01:19:38 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 01:20:59 | INFO | app.modules.hr.router | User [alitesti] requested all users
+2026-01-29 01:20:59 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 01:20:59 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 01:20:59 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 01:20:59 | INFO | sqlalchemy.engine.Engine | [cached since 120.8s ago] ()
+2026-01-29 01:20:59 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 01:21:03 | INFO | app.modules.hr.router | User [alitesti] requested all users
+2026-01-29 01:21:03 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 01:21:03 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 01:21:03 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 01:21:03 | INFO | sqlalchemy.engine.Engine | [cached since 124.9s ago] ()
+2026-01-29 01:21:03 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 01:22:13 | INFO | app.modules.hr.router | User [alitesti] requested all users
+2026-01-29 01:22:13 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 01:22:13 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 01:22:13 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 01:22:13 | INFO | sqlalchemy.engine.Engine | [cached since 195s ago] ()
+2026-01-29 01:22:13 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 01:36:26 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-29 01:36:28 | INFO | startup | HR Logging system initialized
+2026-01-29 01:36:28 | INFO | startup | Environment: noDEV
+2026-01-29 01:36:28 | INFO | startup | Log level: INFO
+2026-01-29 01:36:28 | INFO | startup | Log file: logs/app.log
+2026-01-29 01:36:29 | INFO | app.main | ===================================
+2026-01-29 01:36:29 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-29 01:36:29 | INFO | app.main | ===================================
+2026-01-29 01:36:29 | INFO | app.main | Environment : noDEV
+2026-01-29 01:36:29 | INFO | app.main | Debug       : True
+2026-01-29 01:36:29 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-29 01:36:29 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-29 01:36:29 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-29 01:36:29 | INFO | sqlalchemy.engine.Engine | [generated in 0.00153s] ()
+2026-01-29 01:36:29 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-29 01:36:29 | INFO | sqlalchemy.engine.Engine | [generated in 0.00157s] ()
+2026-01-29 01:36:29 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-29 01:36:29 | INFO | sqlalchemy.engine.Engine | [generated in 0.00083s] ()
+2026-01-29 01:36:29 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 01:36:29 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-29 01:36:29 | INFO | sqlalchemy.engine.Engine | [generated in 0.00272s] ()
+2026-01-29 01:36:29 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 01:36:29 | INFO | app.main | Database connection OK
+2026-01-29 01:36:35 | INFO | app.modules.hr.router | User [alitesti] requested all users
+2026-01-29 01:36:35 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 01:36:35 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 01:36:35 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 01:36:35 | INFO | sqlalchemy.engine.Engine | [generated in 0.01014s] ()
+2026-01-29 01:36:35 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 01:37:57 | INFO | app.modules.hr.router | User [alitesti] requested all users
+2026-01-29 01:37:57 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 01:37:57 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 01:37:57 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 01:37:57 | INFO | sqlalchemy.engine.Engine | [cached since 81.53s ago] ()
+2026-01-29 01:37:57 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 01:39:11 | INFO | app.modules.hr.router | User [alitesti] requested all users
+2026-01-29 01:39:11 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 01:39:11 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 01:39:11 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 01:39:11 | INFO | sqlalchemy.engine.Engine | [cached since 155.7s ago] ()
+2026-01-29 01:39:11 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 01:40:28 | INFO | app.modules.hr.router | User [alitesti] requested all users
+2026-01-29 01:40:28 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 01:40:28 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 01:40:28 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 01:40:28 | INFO | sqlalchemy.engine.Engine | [cached since 232.6s ago] ()
+2026-01-29 01:40:28 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 01:47:19 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-29 01:47:27 | INFO | startup | HR Logging system initialized
+2026-01-29 01:47:27 | INFO | startup | Environment: DEV
+2026-01-29 01:47:27 | INFO | startup | Log level: INFO
+2026-01-29 01:47:27 | INFO | startup | Log file: logs/app.log
+2026-01-29 01:47:28 | INFO | app.main | ===================================
+2026-01-29 01:47:28 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-29 01:47:28 | INFO | app.main | ===================================
+2026-01-29 01:47:28 | INFO | app.main | Environment : DEV
+2026-01-29 01:47:28 | INFO | app.main | Debug       : True
+2026-01-29 01:47:28 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-29 01:47:28 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-29 01:47:28 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-29 01:47:28 | INFO | sqlalchemy.engine.Engine | [generated in 0.00462s] ()
+2026-01-29 01:47:28 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-29 01:47:28 | INFO | sqlalchemy.engine.Engine | [generated in 0.00177s] ()
+2026-01-29 01:47:28 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-29 01:47:28 | INFO | sqlalchemy.engine.Engine | [generated in 0.00159s] ()
+2026-01-29 01:47:29 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 01:47:29 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-29 01:47:29 | INFO | sqlalchemy.engine.Engine | [generated in 0.00253s] ()
+2026-01-29 01:47:29 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 01:47:29 | INFO | app.main | Database connection OK
+2026-01-29 01:47:30 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 01:47:30 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 01:47:30 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 01:47:30 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 01:47:30 | INFO | sqlalchemy.engine.Engine | [generated in 0.03711s] ()
+2026-01-29 01:47:30 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 01:47:41 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 01:47:41 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 01:47:41 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 01:47:41 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 01:47:41 | INFO | sqlalchemy.engine.Engine | [cached since 11.23s ago] ()
+2026-01-29 01:47:41 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 01:50:58 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-29 01:51:01 | INFO | startup | HR Logging system initialized
+2026-01-29 01:51:01 | INFO | startup | Environment: DEV
+2026-01-29 01:51:01 | INFO | startup | Log level: INFO
+2026-01-29 01:51:01 | INFO | startup | Log file: logs/app.log
+2026-01-29 01:51:02 | INFO | app.main | ===================================
+2026-01-29 01:51:02 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-29 01:51:02 | INFO | app.main | ===================================
+2026-01-29 01:51:02 | INFO | app.main | Environment : DEV
+2026-01-29 01:51:02 | INFO | app.main | Debug       : True
+2026-01-29 01:51:02 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-29 01:51:02 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-29 01:51:02 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-29 01:51:02 | INFO | sqlalchemy.engine.Engine | [generated in 0.00078s] ()
+2026-01-29 01:51:02 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-29 01:51:02 | INFO | sqlalchemy.engine.Engine | [generated in 0.00095s] ()
+2026-01-29 01:51:02 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-29 01:51:02 | INFO | sqlalchemy.engine.Engine | [generated in 0.00072s] ()
+2026-01-29 01:51:02 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 01:51:02 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-29 01:51:02 | INFO | sqlalchemy.engine.Engine | [generated in 0.00163s] ()
+2026-01-29 01:51:02 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 01:51:02 | INFO | app.main | Database connection OK
+2026-01-29 01:58:05 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 01:58:05 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 01:58:05 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 01:58:05 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 01:58:05 | INFO | sqlalchemy.engine.Engine | [generated in 0.00163s] ()
+2026-01-29 01:58:05 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 01:58:21 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 01:58:21 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 01:58:21 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 01:58:21 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 01:58:21 | INFO | sqlalchemy.engine.Engine | [cached since 16.08s ago] ()
+2026-01-29 01:58:21 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 02:01:43 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 02:01:43 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 02:01:43 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 02:01:43 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 02:01:43 | INFO | sqlalchemy.engine.Engine | [cached since 218s ago] ()
+2026-01-29 02:01:43 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 02:02:04 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-29 02:02:06 | INFO | startup | HR Logging system initialized
+2026-01-29 02:02:06 | INFO | startup | Environment: noDEV
+2026-01-29 02:02:06 | INFO | startup | Log level: INFO
+2026-01-29 02:02:06 | INFO | startup | Log file: logs/app.log
+2026-01-29 02:02:07 | INFO | app.main | ===================================
+2026-01-29 02:02:07 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-29 02:02:07 | INFO | app.main | ===================================
+2026-01-29 02:02:07 | INFO | app.main | Environment : noDEV
+2026-01-29 02:02:07 | INFO | app.main | Debug       : True
+2026-01-29 02:02:07 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-29 02:02:07 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-29 02:02:07 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-29 02:02:07 | INFO | sqlalchemy.engine.Engine | [generated in 0.00073s] ()
+2026-01-29 02:02:07 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-29 02:02:07 | INFO | sqlalchemy.engine.Engine | [generated in 0.00126s] ()
+2026-01-29 02:02:07 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-29 02:02:07 | INFO | sqlalchemy.engine.Engine | [generated in 0.00100s] ()
+2026-01-29 02:02:07 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 02:02:07 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-29 02:02:07 | INFO | sqlalchemy.engine.Engine | [generated in 0.00194s] ()
+2026-01-29 02:02:07 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 02:02:07 | INFO | app.main | Database connection OK
+2026-01-29 02:04:26 | INFO | app.modules.hr.router | User [alitesti] requested all users
+2026-01-29 02:04:26 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 02:04:26 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 02:04:26 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 02:04:26 | INFO | sqlalchemy.engine.Engine | [generated in 0.00173s] ()
+2026-01-29 02:04:26 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 02:04:33 | INFO | app.modules.hr.router | User [alitesti] requested all users
+2026-01-29 02:04:33 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 02:04:33 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 02:04:33 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 02:04:33 | INFO | sqlalchemy.engine.Engine | [cached since 7.589s ago] ()
+2026-01-29 02:04:33 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 02:05:03 | INFO | app.modules.hr.router | User [alitesti] requested all users
+2026-01-29 02:05:03 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 02:05:03 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 02:05:03 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 02:05:03 | INFO | sqlalchemy.engine.Engine | [cached since 36.95s ago] ()
+2026-01-29 02:05:03 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 02:12:39 | INFO | app.modules.hr.router | User [alitesti] requested all users
+2026-01-29 02:12:39 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 02:12:39 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 02:12:39 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 02:12:39 | INFO | sqlalchemy.engine.Engine | [cached since 493.8s ago] ()
+2026-01-29 02:12:40 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 02:19:23 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-29 02:19:31 | INFO | startup | HR Logging system initialized
+2026-01-29 02:19:31 | INFO | startup | Environment: DEV
+2026-01-29 02:19:31 | INFO | startup | Log level: INFO
+2026-01-29 02:19:31 | INFO | startup | Log file: logs/app.log
+2026-01-29 02:19:32 | INFO | app.main | ===================================
+2026-01-29 02:19:32 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-29 02:19:32 | INFO | app.main | ===================================
+2026-01-29 02:19:32 | INFO | app.main | Environment : DEV
+2026-01-29 02:19:32 | INFO | app.main | Debug       : True
+2026-01-29 02:19:32 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-29 02:19:32 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-29 02:19:32 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-29 02:19:32 | INFO | sqlalchemy.engine.Engine | [generated in 0.00118s] ()
+2026-01-29 02:19:32 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-29 02:19:32 | INFO | sqlalchemy.engine.Engine | [generated in 0.00176s] ()
+2026-01-29 02:19:32 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-29 02:19:32 | INFO | sqlalchemy.engine.Engine | [generated in 0.00129s] ()
+2026-01-29 02:19:32 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 02:19:32 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-29 02:19:32 | INFO | sqlalchemy.engine.Engine | [generated in 0.00273s] ()
+2026-01-29 02:19:32 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 02:19:32 | INFO | app.main | Database connection OK
+2026-01-29 02:19:37 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 02:19:37 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 02:19:37 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 02:19:37 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 02:19:37 | INFO | sqlalchemy.engine.Engine | [generated in 0.00205s] ()
+2026-01-29 02:19:37 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 02:19:45 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 02:19:45 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 02:19:45 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 02:19:45 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 02:19:45 | INFO | sqlalchemy.engine.Engine | [cached since 7.82s ago] ()
+2026-01-29 02:19:45 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 02:34:22 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 02:34:22 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 02:34:22 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 02:34:22 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 02:34:22 | INFO | sqlalchemy.engine.Engine | [cached since 884.6s ago] ()
+2026-01-29 02:34:22 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 02:41:41 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 02:41:41 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 02:41:41 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 02:41:41 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 02:41:41 | INFO | sqlalchemy.engine.Engine | [cached since 1324s ago] ()
+2026-01-29 02:41:41 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 02:41:47 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 02:41:47 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 02:41:47 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 02:41:47 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 02:41:47 | INFO | sqlalchemy.engine.Engine | [cached since 1330s ago] ()
+2026-01-29 02:41:47 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 02:41:50 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 02:41:50 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 02:41:50 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 02:41:50 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 02:41:50 | INFO | sqlalchemy.engine.Engine | [cached since 1332s ago] ()
+2026-01-29 02:41:50 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 02:41:59 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-01-29 02:41:59 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 02:41:59 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 02:41:59 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 02:41:59 | INFO | sqlalchemy.engine.Engine | [cached since 1342s ago] ()
+2026-01-29 02:41:59 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 02:42:01 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-29 02:42:05 | INFO | startup | HR Logging system initialized
+2026-01-29 02:42:05 | INFO | startup | Environment: noDEV
+2026-01-29 02:42:05 | INFO | startup | Log level: INFO
+2026-01-29 02:42:05 | INFO | startup | Log file: logs/app.log
+2026-01-29 02:42:06 | INFO | app.main | ===================================
+2026-01-29 02:42:06 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-29 02:42:06 | INFO | app.main | ===================================
+2026-01-29 02:42:06 | INFO | app.main | Environment : noDEV
+2026-01-29 02:42:06 | INFO | app.main | Debug       : True
+2026-01-29 02:42:06 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-29 02:42:06 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-29 02:42:06 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-29 02:42:06 | INFO | sqlalchemy.engine.Engine | [generated in 0.00220s] ()
+2026-01-29 02:42:06 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-29 02:42:06 | INFO | sqlalchemy.engine.Engine | [generated in 0.00143s] ()
+2026-01-29 02:42:06 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-29 02:42:06 | INFO | sqlalchemy.engine.Engine | [generated in 0.00088s] ()
+2026-01-29 02:42:06 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 02:42:06 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-29 02:42:06 | INFO | sqlalchemy.engine.Engine | [generated in 0.00222s] ()
+2026-01-29 02:42:06 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 02:42:06 | INFO | app.main | Database connection OK
+2026-01-29 02:42:06 | INFO | app.modules.hr.router | User [alitesti] requested all users
+2026-01-29 02:42:06 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 02:42:06 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 02:42:06 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 02:42:06 | INFO | sqlalchemy.engine.Engine | [generated in 0.00593s] ()
+2026-01-29 02:42:07 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 02:42:07 | INFO | app.modules.hr.router | User [alitesti] requested all users
+2026-01-29 02:42:07 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 02:42:07 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 02:42:07 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 02:42:07 | INFO | sqlalchemy.engine.Engine | [cached since 0.3555s ago] ()
+2026-01-29 02:42:07 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 03:31:56 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-01-29 13:25:03 | INFO | startup | HR Logging system initialized
+2026-01-29 13:25:03 | INFO | startup | Environment: noDEV
+2026-01-29 13:25:03 | INFO | startup | Log level: INFO
+2026-01-29 13:25:03 | INFO | startup | Log file: logs/app.log
+2026-01-29 13:25:05 | INFO | app.main | ===================================
+2026-01-29 13:25:05 | INFO | app.main |  HR SYSTEM STARTING 
+2026-01-29 13:25:05 | INFO | app.main | ===================================
+2026-01-29 13:25:05 | INFO | app.main | Environment : noDEV
+2026-01-29 13:25:05 | INFO | app.main | Debug       : True
+2026-01-29 13:25:05 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-01-29 13:25:05 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-01-29 13:25:05 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-01-29 13:25:05 | INFO | sqlalchemy.engine.Engine | [generated in 0.00125s] ()
+2026-01-29 13:25:05 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-01-29 13:25:05 | INFO | sqlalchemy.engine.Engine | [generated in 0.00131s] ()
+2026-01-29 13:25:05 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-01-29 13:25:05 | INFO | sqlalchemy.engine.Engine | [generated in 0.00195s] ()
+2026-01-29 13:25:05 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 13:25:05 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-01-29 13:25:05 | INFO | sqlalchemy.engine.Engine | [generated in 0.00170s] ()
+2026-01-29 13:25:05 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 13:25:05 | INFO | app.main | Database connection OK
+2026-01-29 13:26:06 | INFO | app.modules.hr.router | User [alitesti] requested all users
+2026-01-29 13:26:06 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 13:26:06 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 13:26:06 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 13:26:06 | INFO | sqlalchemy.engine.Engine | [generated in 0.00396s] ()
+2026-01-29 13:26:07 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 13:27:10 | INFO | app.modules.hr.router | User [alitesti] requested all users
+2026-01-29 13:27:10 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 13:27:10 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 13:27:10 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 13:27:10 | INFO | sqlalchemy.engine.Engine | [cached since 63.93s ago] ()
+2026-01-29 13:27:10 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 13:29:21 | INFO | app.modules.hr.router | User [alitesti] requested all users
+2026-01-29 13:29:21 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 13:29:21 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 13:29:21 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 13:29:21 | INFO | sqlalchemy.engine.Engine | [cached since 194.8s ago] ()
+2026-01-29 13:29:21 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 13:33:10 | INFO | app.modules.hr.router | User [alitesti] requested all users
+2026-01-29 13:33:10 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-01-29 13:33:10 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-01-29 13:33:10 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-01-29 13:33:10 | INFO | sqlalchemy.engine.Engine | [cached since 423.7s ago] ()
+2026-01-29 13:33:10 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-01-29 14:10:40 | INFO | app.main | HR SYSTEM SHUTDOWN
