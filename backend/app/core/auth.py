@@ -59,7 +59,6 @@ def get_username_from_iis(request: Request):
         or headers.get("logon-user")        # IIS واقعی
     )
 
-    print("RAW USER FROM HEADERS:", raw_user)
 
     if not raw_user:
         return None
