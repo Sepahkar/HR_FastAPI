@@ -2164,3 +2164,38 @@
 2026-02-02 00:25:29 | INFO | sqlalchemy.engine.Engine | [generated in 0.00098s] ()
 2026-02-02 00:25:29 | INFO | sqlalchemy.engine.Engine | ROLLBACK
 2026-02-02 00:25:34 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-02-05 23:36:24 | INFO | startup | HR Logging system initialized
+2026-02-05 23:36:24 | INFO | startup | Environment: DEV
+2026-02-05 23:36:24 | INFO | startup | Log level: INFO
+2026-02-05 23:36:24 | INFO | startup | Log file: logs/app.log
+2026-02-05 23:36:25 | INFO | app.main | ===================================
+2026-02-05 23:36:25 | INFO | app.main |  HR SYSTEM STARTING 
+2026-02-05 23:36:25 | INFO | app.main | ===================================
+2026-02-05 23:36:25 | INFO | app.main | Environment : DEV
+2026-02-05 23:36:25 | INFO | app.main | Debug       : True
+2026-02-05 23:36:25 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-02-05 23:36:25 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-02-05 23:36:25 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-02-05 23:36:25 | INFO | sqlalchemy.engine.Engine | [generated in 0.00047s] ()
+2026-02-05 23:36:25 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-02-05 23:36:25 | INFO | sqlalchemy.engine.Engine | [generated in 0.00087s] ()
+2026-02-05 23:36:25 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-02-05 23:36:25 | INFO | sqlalchemy.engine.Engine | [generated in 0.00045s] ()
+2026-02-05 23:36:25 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-02-05 23:36:25 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-02-05 23:36:25 | INFO | sqlalchemy.engine.Engine | [generated in 0.00107s] ()
+2026-02-05 23:36:25 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-02-05 23:36:25 | INFO | app.main | Database connection OK
+2026-02-05 23:36:41 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-02-05 23:36:41 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-02-05 23:36:41 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-02-05 23:36:41 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-02-05 23:36:41 | INFO | sqlalchemy.engine.Engine | [generated in 0.00456s] ()
+2026-02-05 23:36:41 | INFO | sqlalchemy.engine.Engine | ROLLBACK
