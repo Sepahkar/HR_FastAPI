@@ -34,16 +34,12 @@ mssql+pyodbc://USER:PASSWORD@HOST:PORT/DB_NAME?driver=ODBC+Driver+17+for+SQL+Ser
 - fast_executemany برای Performance بهتر فعال شده
 """
 
-# DATABASE_URL = (
-#     f"mssql+pyodbc://{settings.DB_USER}:{settings.DB_PASSWORD}"
-#     f"@{settings.DB_HOST}:{settings.DB_PORT}/{settings.DB_NAME}"
-#     f"?driver={settings.DB_DRIVER.replace(' ', '+')}"
-# )
-#جدید:
-
+#تنظیمات دیتابیس از فایل .env خوانده می‌شود و Connection String ساخته می‌شود
 DATABASE_URL = (
-    "mssql+pyodbc://sa:123456@ALIESMAEILBEIGI\AEBSQLSERVER/MyHR?"
-    "driver=ODBC+Driver+17+for+SQL+Server"
+    f"mssql+pyodbc://{settings.DB_USER}:"
+    f"{settings.DB_PASSWORD}"
+    f"@{settings.DB_HOST}/{settings.DB_NAME}"
+    f"?driver={settings.DB_DRIVER}"
 )
 
 # ======================================================

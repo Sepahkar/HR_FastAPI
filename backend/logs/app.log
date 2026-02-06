@@ -2199,3 +2199,143 @@
     
 2026-02-05 23:36:41 | INFO | sqlalchemy.engine.Engine | [generated in 0.00456s] ()
 2026-02-05 23:36:41 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-02-06 23:53:41 | INFO | startup | HR Logging system initialized
+2026-02-06 23:53:41 | INFO | startup | Environment: DEV
+2026-02-06 23:53:41 | INFO | startup | Log level: INFO
+2026-02-06 23:53:41 | INFO | startup | Log file: logs/app.log
+2026-02-06 23:53:43 | INFO | app.main | ===================================
+2026-02-06 23:53:43 | INFO | app.main |  HR SYSTEM STARTING 
+2026-02-06 23:53:43 | INFO | app.main | ===================================
+2026-02-06 23:53:43 | INFO | app.main | Environment : DEV
+2026-02-06 23:53:43 | INFO | app.main | Debug       : True
+2026-02-06 23:53:43 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-02-06 23:53:43 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-02-06 23:53:43 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-02-06 23:53:43 | INFO | sqlalchemy.engine.Engine | [generated in 0.00183s] ()
+2026-02-06 23:53:43 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-02-06 23:53:43 | INFO | sqlalchemy.engine.Engine | [generated in 0.00171s] ()
+2026-02-06 23:53:43 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-02-06 23:53:43 | INFO | sqlalchemy.engine.Engine | [generated in 0.00673s] ()
+2026-02-06 23:53:44 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-02-06 23:53:44 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-02-06 23:53:44 | INFO | sqlalchemy.engine.Engine | [generated in 0.00237s] ()
+2026-02-06 23:53:44 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-02-06 23:53:44 | INFO | app.main | Database connection OK
+2026-02-06 23:54:07 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-02-06 23:54:07 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-02-06 23:54:07 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-02-06 23:54:07 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-02-06 23:54:07 | INFO | sqlalchemy.engine.Engine | [generated in 0.00119s] ()
+2026-02-06 23:54:08 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-02-06 23:55:29 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-02-06 23:55:31 | INFO | startup | HR Logging system initialized
+2026-02-06 23:55:31 | INFO | startup | Environment: DEV
+2026-02-06 23:55:31 | INFO | startup | Log level: INFO
+2026-02-06 23:55:31 | INFO | startup | Log file: logs/app.log
+2026-02-06 23:55:32 | INFO | app.main | ===================================
+2026-02-06 23:55:32 | INFO | app.main |  HR SYSTEM STARTING 
+2026-02-06 23:55:32 | INFO | app.main | ===================================
+2026-02-06 23:55:32 | INFO | app.main | Environment : DEV
+2026-02-06 23:55:32 | INFO | app.main | Debug       : True
+2026-02-06 23:55:32 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-02-06 23:55:32 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-02-06 23:55:32 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-02-06 23:55:32 | INFO | sqlalchemy.engine.Engine | [generated in 0.00105s] ()
+2026-02-06 23:55:32 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-02-06 23:55:32 | INFO | sqlalchemy.engine.Engine | [generated in 0.00109s] ()
+2026-02-06 23:55:32 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-02-06 23:55:32 | INFO | sqlalchemy.engine.Engine | [generated in 0.00126s] ()
+2026-02-06 23:55:32 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-02-06 23:55:32 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-02-06 23:55:32 | INFO | sqlalchemy.engine.Engine | [generated in 0.00175s] ()
+2026-02-06 23:55:32 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-02-06 23:55:32 | INFO | app.main | Database connection OK
+2026-02-06 23:55:36 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-02-06 23:55:40 | INFO | startup | HR Logging system initialized
+2026-02-06 23:55:40 | INFO | startup | Environment: DEV
+2026-02-06 23:55:40 | INFO | startup | Log level: INFO
+2026-02-06 23:55:40 | INFO | startup | Log file: logs/app.log
+2026-02-06 23:55:40 | INFO | app.main | ===================================
+2026-02-06 23:55:40 | INFO | app.main |  HR SYSTEM STARTING 
+2026-02-06 23:55:40 | INFO | app.main | ===================================
+2026-02-06 23:55:40 | INFO | app.main | Environment : DEV
+2026-02-06 23:55:40 | INFO | app.main | Debug       : True
+2026-02-06 23:55:40 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-02-06 23:55:40 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-02-06 23:55:40 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-02-06 23:55:40 | INFO | sqlalchemy.engine.Engine | [generated in 0.00064s] ()
+2026-02-06 23:55:40 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-02-06 23:55:40 | INFO | sqlalchemy.engine.Engine | [generated in 0.00111s] ()
+2026-02-06 23:55:40 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-02-06 23:55:40 | INFO | sqlalchemy.engine.Engine | [generated in 0.00062s] ()
+2026-02-06 23:55:40 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-02-06 23:55:40 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-02-06 23:55:40 | INFO | sqlalchemy.engine.Engine | [generated in 0.00186s] ()
+2026-02-06 23:55:40 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-02-06 23:55:40 | INFO | app.main | Database connection OK
+2026-02-06 23:55:48 | INFO | app.modules.hr.router | User [m.sepahkar] requested all users
+2026-02-06 23:55:48 | INFO | app.modules.hr.service | Fetching minimal users list
+2026-02-06 23:55:48 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-02-06 23:55:48 | INFO | sqlalchemy.engine.Engine | 
+        SELECT
+            NationalCode,
+            FirstName,
+            LastName,
+            ContractDate
+        FROM V_AllUserList
+    
+2026-02-06 23:55:48 | INFO | sqlalchemy.engine.Engine | [generated in 0.00318s] ()
+2026-02-06 23:55:48 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-02-06 23:56:33 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-02-06 23:57:24 | INFO | startup | HR Logging system initialized
+2026-02-06 23:57:24 | INFO | startup | Environment: DEV
+2026-02-06 23:57:24 | INFO | startup | Log level: INFO
+2026-02-06 23:57:24 | INFO | startup | Log file: logs/app.log
+2026-02-06 23:57:25 | INFO | app.main | ===================================
+2026-02-06 23:57:25 | INFO | app.main |  HR SYSTEM STARTING 
+2026-02-06 23:57:25 | INFO | app.main | ===================================
+2026-02-06 23:57:25 | INFO | app.main | Environment : DEV
+2026-02-06 23:57:25 | INFO | app.main | Debug       : True
+2026-02-06 23:57:25 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-02-06 23:57:25 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-02-06 23:57:25 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-02-06 23:57:25 | INFO | sqlalchemy.engine.Engine | [generated in 0.00072s] ()
+2026-02-06 23:57:25 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-02-06 23:57:25 | INFO | sqlalchemy.engine.Engine | [generated in 0.00082s] ()
+2026-02-06 23:57:25 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-02-06 23:57:25 | INFO | sqlalchemy.engine.Engine | [generated in 0.00067s] ()
+2026-02-06 23:57:25 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-02-06 23:57:25 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-02-06 23:57:25 | INFO | sqlalchemy.engine.Engine | [generated in 0.00180s] ()
+2026-02-06 23:57:25 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-02-06 23:57:25 | INFO | app.main | Database connection OK
+2026-02-06 23:59:16 | INFO | app.main | HR SYSTEM SHUTDOWN
+2026-02-06 23:59:19 | INFO | startup | HR Logging system initialized
+2026-02-06 23:59:19 | INFO | startup | Environment: DEV
+2026-02-06 23:59:19 | INFO | startup | Log level: INFO
+2026-02-06 23:59:19 | INFO | startup | Log file: logs/app.log
+2026-02-06 23:59:20 | INFO | app.main | ===================================
+2026-02-06 23:59:20 | INFO | app.main |  HR SYSTEM STARTING 
+2026-02-06 23:59:20 | INFO | app.main | ===================================
+2026-02-06 23:59:20 | INFO | app.main | Environment : DEV
+2026-02-06 23:59:20 | INFO | app.main | Debug       : True
+2026-02-06 23:59:20 | INFO | sqlalchemy.engine.Engine | SELECT CAST(SERVERPROPERTY('ProductVersion') AS VARCHAR)
+2026-02-06 23:59:20 | INFO | sqlalchemy.engine.Engine | [raw sql] ()
+2026-02-06 23:59:20 | INFO | sqlalchemy.engine.Engine | SELECT schema_name()
+2026-02-06 23:59:20 | INFO | sqlalchemy.engine.Engine | [generated in 0.00116s] ()
+2026-02-06 23:59:20 | INFO | sqlalchemy.engine.Engine | SELECT CAST('test max support' AS NVARCHAR(max))
+2026-02-06 23:59:20 | INFO | sqlalchemy.engine.Engine | [generated in 0.00121s] ()
+2026-02-06 23:59:20 | INFO | sqlalchemy.engine.Engine | SELECT 1 FROM fn_listextendedproperty(default, default, default, default, default, default, default)
+2026-02-06 23:59:20 | INFO | sqlalchemy.engine.Engine | [generated in 0.00111s] ()
+2026-02-06 23:59:20 | INFO | sqlalchemy.engine.Engine | BEGIN (implicit)
+2026-02-06 23:59:20 | INFO | sqlalchemy.engine.Engine | SELECT 1
+2026-02-06 23:59:20 | INFO | sqlalchemy.engine.Engine | [generated in 0.00180s] ()
+2026-02-06 23:59:20 | INFO | sqlalchemy.engine.Engine | ROLLBACK
+2026-02-06 23:59:20 | INFO | app.main | Database connection OK
