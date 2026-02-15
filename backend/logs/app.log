@@ -2339,3 +2339,4 @@
 2026-02-06 23:59:20 | INFO | sqlalchemy.engine.Engine | [generated in 0.00180s] ()
 2026-02-06 23:59:20 | INFO | sqlalchemy.engine.Engine | ROLLBACK
 2026-02-06 23:59:20 | INFO | app.main | Database connection OK
+2026-02-07 00:06:40 | INFO | app.main | HR SYSTEM SHUTDOWN
